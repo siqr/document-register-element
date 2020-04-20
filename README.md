@@ -1,6 +1,7 @@
 document-register-element
 
  [![build status](https://travis-ci.org/WebReflection/document-register-element.svg)](https://travis-ci.org/WebReflection/document-register-element) [![donate](https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&style=flat)](https://github.com/WebReflection/donate) [![Backers on Open Collective](https://opencollective.com/document-register-element/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/document-register-element/sponsors/badge.svg)](#sponsors)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsiqr%2Fdocument-register-element.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsiqr%2Fdocument-register-element?ref=badge_shield)
 =========================
 
 A stand-alone lightweight version of [Custom Elements V1](https://html.spec.whatwg.org/multipage/scripting.html#custom-elements)
@@ -453,3 +454,7 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 <a href="https://opencollective.com/document-register-element/sponsor/9/website" target="_blank"><img src="https://opencollective.com/document-register-element/sponsor/9/avatar.svg"></a>
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsiqr%2Fdocument-register-element.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsiqr%2Fdocument-register-element?ref=badge_large)
